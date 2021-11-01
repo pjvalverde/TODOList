@@ -1,4 +1,4 @@
 # TODOList
-list of tasks and activities to be done 
+List of tasks and activities to be done in React.
 ![image info](TODOex.png)
 
